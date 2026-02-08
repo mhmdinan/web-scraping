@@ -1,6 +1,6 @@
 # Web Scraping
 
-This repository documents my personal progress and experiments while learning **web scraping** — from basics to more advanced techniques.
+This repository documents my personal progress and experiments while learning **web scraping** from basics to more advanced techniques.
 
 ### What you'll find here
 
@@ -16,7 +16,7 @@ Most code is written in **Python**, but I might add examples in other languages 
 
 ### Status
 
-🚧 **Work in progress** — this repo is mainly a personal learning log.  
+🚧 **Work in progress:** this repo is mainly a personal learning log.  
 Code quality varies (from quick&dirty experiments to more structured attempts).  
 Expect incomplete scripts, refactoring in progress, and lots of comments explaining *why* something is done a certain way (or why it failed).
 
@@ -40,7 +40,7 @@ The GitHub copy is **automatically mirrored** (push mirror) for better discovera
 
 ### License
 
-MIT License — feel free to use any code snippet for your own learning or projects.
+MIT License feel free to use any code snippet for your own learning or projects.
 
 But please be responsible: respect robots.txt, don't overload servers, don't scrape personal data without permission, etc.
 
